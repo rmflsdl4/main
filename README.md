@@ -39,4 +39,4 @@
 </div>  
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmflsdl4&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmflsdl4&layout=compact)](https://github.com/rmflsdl4/github-readme-stats)
+[![Flier's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmflsdl4&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmflsdl4&layout=compact)](https://github.com/rmflsdl4/github-readme-stats)
